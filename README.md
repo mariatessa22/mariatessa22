@@ -15,8 +15,9 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=mariatessa22&theme=cobalt&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mariatessa22&theme=cobalt&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
+## 🏆 Badges
 ![](https://github-profile-trophy.vercel.app/?username=mariatessa22&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<img src="https://github.com/user-attachments/assets/e4d51e59-3c37-4bbc-880c-c98a46cb4293" height="150" width="150" />
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
