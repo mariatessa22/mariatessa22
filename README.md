@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Maria Tessa S E╰(*°▽°*)╯</h1>
+<h1 align="center">Hi 👋, I'm Maria Tessa S E</h1>
 <h3 align="center">CSE student @ lbsitw </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mariatessa22&label=Profile%20views&color=0e75b6&style=flat" alt="mariatessa22" /> </p>
@@ -19,7 +19,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=mariatessa22&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 <img src="https://github.com/user-attachments/assets/e4d51e59-3c37-4bbc-880c-c98a46cb4293" height="150" width="150" />
 
-### ✍️ Random Dev Quote
+### ✍️ Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
